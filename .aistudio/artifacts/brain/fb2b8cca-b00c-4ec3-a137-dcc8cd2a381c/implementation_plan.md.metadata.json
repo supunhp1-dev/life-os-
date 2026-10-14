@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for porting LifeOS to a native Android Jetpack Compose app backed by SQLite and Room database. Features include full planning suite (weekly planner, tasks, money/bills, and life records), Sage and Moss theme, and pre-populated starter data.",
+  "updatedAt": "2026-10-14T13:51:04.618488517Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

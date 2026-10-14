@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "Personal life planner and organizer with weekly planning, tasks, finance, and life records powered by SQLite and Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
